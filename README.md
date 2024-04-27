@@ -1,4 +1,4 @@
-@@ -1,9 +1,9 @@
+
 <h1 align="center">Hi 👋, I'm Pravin Pandhare</h1>
 <h3 align="center">Making lives easy through web applications</h3>
 
